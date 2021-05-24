@@ -1,4 +1,5 @@
 # kubectx wrapper
+# aka _kctx_
 kubectx cli tool with dialogue option.
 Eventually you will have many contextes in your kubeconfig so kubectx becomes hard to use. This wrapper offers the dialogue with numbered contextes, so you need to pick the context you want to use by entering the corresponded number.
 
